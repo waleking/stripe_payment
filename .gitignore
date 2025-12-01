@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment variables (secrets)
+.env.local
+.env*.local
+
+# Build
+build/
+dist/
+
+# Debug
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Generated files
+merged.pdf
+stripe_source.txt
